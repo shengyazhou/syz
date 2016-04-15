@@ -8,6 +8,7 @@ public class Customer {
 	private String name;
 	private Integer age;
 	private String password;
+	private String address;
 
 	/**
 	 * 构造函数
