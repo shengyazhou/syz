@@ -8,7 +8,6 @@ public class Customer {
 	private String name;
 	private Integer age;
 	private String password;
-	private String address;
 
 	/**
 	 * 构造函数
@@ -53,12 +52,6 @@ public class Customer {
 
 	public void setPassword(String password) {
 		this.password = password;
-	}
-	public String getAddress() {
-		return address;
-	}
-	public void setAddress(String address) {
-		this.address = address;
 	}
 }
 

@@ -1,4 +1,4 @@
-package com.briup.ch08.common.util;
+package com.briup.ch08.common.test;
 
 import com.briup.ch08.bean.Customer;
 import com.briup.ch08.dao.CustomerDao;
